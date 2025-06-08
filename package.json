@@ -44,10 +44,10 @@
   },
   "devDependencies": {
     "@types/mocha": "^10.0.10",
-    "@types/node": "^18.19.57",
-    "mocha": "^11.1.0",
+    "@types/node": "^22.15.30",
+    "mocha": "^11.5.0",
     "yeoman-environment": "^4.4.3",
-    "yeoman-test": "^10.1.0",
+    "yeoman-test": "^10.1.1",
     "jsonc-parser": "^3.3.1"
   }
 }
